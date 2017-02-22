@@ -1,0 +1,980 @@
+[
+  {
+    "school": "Harvard",
+    "program": "Biological Sciences",
+    "rank": 1,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Chemistry",
+    "rank": 4,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Computer Science",
+    "rank": 18,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Earth Sciences",
+    "rank": 8,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Economics",
+    "rank": 1,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "English",
+    "rank": 2,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "History",
+    "rank": 4,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Mathematics",
+    "rank": 3,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Physics",
+    "rank": 2,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Political Science",
+    "rank": 1,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Psychology",
+    "rank": 4,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Public Administration",
+    "rank": 3,
+    "id": 1
+  },
+  {
+    "school": "Harvard",
+    "program": "Sociology",
+    "rank": 6,
+    "id": 1
+  },
+  {
+    "school": "Stanford",
+    "program": "Biological Sciences",
+    "rank": 1,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Chemistry",
+    "rank": 4,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Computer Science",
+    "rank": 1,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Earth Sciences",
+    "rank": 3,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Economics",
+    "rank": 5,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "English",
+    "rank": 2,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Fine Arts",
+    "rank": 15,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "History",
+    "rank": 4,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Mathematics",
+    "rank": 5,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Physics",
+    "rank": 2,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Political Science",
+    "rank": 2,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Psychology",
+    "rank": 1,
+    "id": 2
+  },
+  {
+    "school": "Stanford",
+    "program": "Sociology",
+    "rank": 4,
+    "id": 2
+  },
+  {
+    "school": "MIT",
+    "program": "Biological Sciences",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Chemistry",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Computer Science",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Earth Sciences",
+    "rank": 2,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Economics",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "History",
+    "rank": 27,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Mathematics",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Physics",
+    "rank": 1,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Political Science",
+    "rank": 8,
+    "id": 3
+  },
+  {
+    "school": "MIT",
+    "program": "Psychology",
+    "rank": 9,
+    "id": 3
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Biological Sciences",
+    "rank": 4,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Chemistry",
+    "rank": 1,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Computer Science",
+    "rank": 1,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Earth Sciences",
+    "rank": 3,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Economics",
+    "rank": 5,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "English",
+    "rank": 1,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Fine Arts",
+    "rank": 27,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "History",
+    "rank": 1,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Mathematics",
+    "rank": 3,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Physics",
+    "rank": 2,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Political Science",
+    "rank": 6,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Psychology",
+    "rank": 2,
+    "id": 4
+  },
+  {
+    "school": "UC Berkeley",
+    "program": "Sociology",
+    "rank": 1,
+    "id": 4
+  },
+  {
+    "school": "Princeton",
+    "program": "Biological Sciences",
+    "rank": 9,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Chemistry",
+    "rank": 15,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Computer Science",
+    "rank": 8,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Earth Sciences",
+    "rank": 11,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Economics",
+    "rank": 1,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "English",
+    "rank": 4,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Fine Arts",
+    "rank": 6,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "History",
+    "rank": 1,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Mathematics",
+    "rank": 1,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Physics",
+    "rank": 2,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Political Science",
+    "rank": 2,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Psychology",
+    "rank": 7,
+    "id": 5
+  },
+  {
+    "school": "Princeton",
+    "program": "Sociology",
+    "rank": 1,
+    "id": 5
+  },
+  {
+    "school": "Columbia",
+    "program": "Biological Sciences",
+    "rank": 14,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Chemistry",
+    "rank": 10,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Computer Science",
+    "rank": 15,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Earth Sciences",
+    "rank": 5,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Economics",
+    "rank": 10,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "English",
+    "rank": 4,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Fine Arts",
+    "rank": 6,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "History",
+    "rank": 7,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Mathematics",
+    "rank": 9,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Physics",
+    "rank": 11,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Political Science",
+    "rank": 7,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Psychology",
+    "rank": 14,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Public Administration",
+    "rank": 19,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Social Work",
+    "rank": 6,
+    "id": 6
+  },
+  {
+    "school": "Columbia",
+    "program": "Sociology",
+    "rank": 12,
+    "id": 6
+  },
+  {
+    "school": "Yale",
+    "program": "Biological Sciences",
+    "rank": 7,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Chemistry",
+    "rank": 12,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Computer Science",
+    "rank": 20,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Earth Sciences",
+    "rank": 13,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Economics",
+    "rank": 7,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "English",
+    "rank": 4,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Fine Arts",
+    "rank": 1,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "History",
+    "rank": 1,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Mathematics",
+    "rank": 9,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Physics",
+    "rank": 11,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Political Science",
+    "rank": 4,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Psychology",
+    "rank": 4,
+    "id": 7
+  },
+  {
+    "school": "Yale",
+    "program": "Sociology",
+    "rank": 20,
+    "id": 7
+  },
+  {
+    "school": "NYU",
+    "program": "Biological Sciences",
+    "rank": 68,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Chemistry",
+    "rank": 60,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Computer Science",
+    "rank": 29,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Economics",
+    "rank": 11,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "English",
+    "rank": 20,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Fine Arts",
+    "rank": 48,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "History",
+    "rank": 18,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Mathematics",
+    "rank": 9,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Physics",
+    "rank": 36,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Political Science",
+    "rank": 15,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Psychology",
+    "rank": 30,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Social Work",
+    "rank": 17,
+    "id": 8
+  },
+  {
+    "school": "NYU",
+    "program": "Sociology",
+    "rank": 16,
+    "id": 8
+  },
+  {
+    "school": "USC",
+    "program": "Biological Sciences",
+    "rank": 55,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Chemistry",
+    "rank": 49,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Computer Science",
+    "rank": 20,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Earth Sciences",
+    "rank": 25,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Economics",
+    "rank": 48,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "English",
+    "rank": 36,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Fine Arts",
+    "rank": 69,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "History",
+    "rank": 46,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Mathematics",
+    "rank": 46,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Physics",
+    "rank": 60,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Political Science",
+    "rank": 54,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Psychology",
+    "rank": 40,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Public Administration",
+    "rank": 4,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Social Work",
+    "rank": 12,
+    "id": 9
+  },
+  {
+    "school": "USC",
+    "program": "Sociology",
+    "rank": 39,
+    "id": 9
+  },
+  {
+    "school": "UCLA",
+    "program": "Biological Sciences",
+    "rank": 19,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Chemistry",
+    "rank": 15,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Computer Science",
+    "rank": 13,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Earth Sciences",
+    "rank": 13,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Economics",
+    "rank": 15,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "English",
+    "rank": 10,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Fine Arts",
+    "rank": 2,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Library Sciences",
+    "rank": 14,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "History",
+    "rank": 9,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Mathematics",
+    "rank": 7,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Physics",
+    "rank": 18,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Political Science",
+    "rank": 10,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Psychology",
+    "rank": 2,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Public Administration",
+    "rank": 19,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Social Work",
+    "rank": 12,
+    "id": 10
+  },
+  {
+    "school": "UCLA",
+    "program": "Sociology",
+    "rank": 9,
+    "id": 10
+  },
+  {
+    "school": "Cornell",
+    "program": "Biological Sciences",
+    "rank": 11,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Chemistry",
+    "rank": 10,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Computer Science",
+    "rank": 6,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Earth Sciences",
+    "rank": 16,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Economics",
+    "rank": 18,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "English",
+    "rank": 8,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Fine Arts",
+    "rank": 27,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "History",
+    "rank": 11,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Mathematics",
+    "rank": 13,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Physics",
+    "rank": 7,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Political Science",
+    "rank": 19,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Psychology",
+    "rank": 14,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Public Administration",
+    "rank": 41,
+    "id": 11
+  },
+  {
+    "school": "Cornell",
+    "program": "Sociology",
+    "rank": 17,
+    "id": 11
+  },
+  {
+    "school": "Upenn",
+    "program": "Biological Sciences",
+    "rank": 19,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Chemistry",
+    "rank": 19,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Computer Science",
+    "rank": 19,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Earth Sciences",
+    "rank": 77,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Economics",
+    "rank": 9,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "English",
+    "rank": 4,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Fine Arts",
+    "rank": 33,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "History",
+    "rank": 9,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Mathematics",
+    "rank": 18,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Physics",
+    "rank": 16,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Political Science",
+    "rank": 28,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Psychology",
+    "rank": 12,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Public Administration",
+    "rank": 45,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Social Work",
+    "rank": 12,
+    "id": 12
+  },
+  {
+    "school": "Upenn",
+    "program": "Sociology",
+    "rank": 10,
+    "id": 12
+  }
+]
